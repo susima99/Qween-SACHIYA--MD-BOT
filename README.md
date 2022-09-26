@@ -1,4 +1,4 @@
-# QUEEN-BIXBY-MD-PRO
+# 𝚂𝙰𝙲𝙷𝙸𝚈𝙰-MD-PRO
 #### TOTAL REPO VIEWS📍
 
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
@@ -44,13 +44,13 @@
 
 <br>
 
-1. Click [SCAN](https://replit.com/@darkalphaxteam/𝚂𝙰𝙲𝙷𝙸𝚈𝙰-MD-Pro?v=1?outputonly=1&lite=1#index.js)) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@darkalphaxteam/𝚂𝙰𝙲𝙷𝙸𝚈𝙰-MD-Pro?v=1?outputonly=1&lite=1#index.js)) මෙ.ලින්ක් එකට යන්න ගිහිලා එන 𝚚𝚛 එක ඔයාගෙ 𝚠𝚑𝚊𝚝𝚜𝙰𝙿𝙿 එකෙන් ස්කැන් කර ගන්න.
 
 2. You will get a long text that needs after 4th step (session.json).
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
-4. Click [FORK](https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW/fork)
+4. මෙ ලින්ක් එකෙන්.𝙱𝙾𝚃 [FORK]කර ගන්න(https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW/fork)
 
 5. Click the url showing below to copy deploy template
 
