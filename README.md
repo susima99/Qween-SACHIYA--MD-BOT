@@ -65,9 +65,11 @@ https://heroku.com/deploy?template=https://github.com/darkalphaxteam/QUEEN-BIXBY
    <br>
 
 # Contact for help:
+  මොකක් හරි දෙයක් දැන ගන්න තියෙනවනම් 
+  https://wa.me/+94705574038 මෙකට මැසෙජ් එකක් දාන්න.
 
    * Click [Contact](https://wa.me/94711421243) Here For Contact
 
       </br> <p/>
 
-      <br>   <p align="center">💻 SPECIAL THANKS FOR NIMA,AFX-ABU AND IMASH 💻
+      <br>   <p align="center">💻 SPECIAL THANKS 𝚂𝙰𝙲𝙷𝙸𝚈𝙰 𝙼𝙳 𝙱𝙾𝚃💻
