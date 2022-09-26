@@ -19,13 +19,13 @@
 
   <p align="center">
 
-<img src="https://telegra.ph/file/1a0137d2065a822e65f92.jpg" alt="GIF" width="300" height="270"/>
+<img src="https://i.pinimg.com/originals/95/e3/1b/95e31ba3d2d51ac1c90c33f2a3e17891.png"/>
 
 </p>
 
   <p align="center">
 
-<a href="#"><img title="darkalphaxteam" src="https://img.shields.io/badge/darkalpha-xteam-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="darkalphaxteam" src="https://i.pinimg.com/originals/95/e3/1b/95e31ba3d2d51ac1c90c33f2a3e17891.png"></a>
 
 </p>
 
